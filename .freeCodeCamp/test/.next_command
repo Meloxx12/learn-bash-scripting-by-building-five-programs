@@ -97,3 +97,4 @@ echo juan
 ls --color=auto
 questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
