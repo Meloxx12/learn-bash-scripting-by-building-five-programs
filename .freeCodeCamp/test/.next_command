@@ -100,3 +100,5 @@ sh questionnaire.sh
 bash questionnaire.sh
 which bach
 which bash
+which bash
+./questionnaire.sh
