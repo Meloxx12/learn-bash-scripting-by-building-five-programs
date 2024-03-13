@@ -102,3 +102,7 @@ which bach
 which bash
 which bash
 ./questionnaire.sh
+ls --color=auto
+ls- l
+./questionnaire.sh ls -l
+ls --color=auto -l
