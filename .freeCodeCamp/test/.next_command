@@ -96,3 +96,4 @@ touch questionnaire.sh
 echo juan
 ls --color=auto
 questionnaire.sh
+sh questionnaire.sh
