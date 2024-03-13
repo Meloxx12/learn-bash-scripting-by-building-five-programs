@@ -98,3 +98,5 @@ ls --color=auto
 questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
+which bach
+which bash
