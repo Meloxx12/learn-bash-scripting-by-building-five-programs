@@ -194,3 +194,5 @@ sh questionnaire.sh
 cklear
 clear
 sh questionnaire.sh
+sh questionnaire.sh
+./questionnaire.sh
