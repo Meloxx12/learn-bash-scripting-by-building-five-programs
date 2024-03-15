@@ -274,3 +274,4 @@ clear
 ./countdown.sh 5
 clear
 help
+help [[ expression ]]
