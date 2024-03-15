@@ -198,3 +198,5 @@ sh questionnaire.sh
 ./questionnaire.sh
 sh questionnaire.sh
 sh questionnaire.sh
+sh questionnaire.sh
+./questionnaire.sh
