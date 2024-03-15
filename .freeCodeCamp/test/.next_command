@@ -276,3 +276,7 @@ clear
 help
 help [[ expression ]]
 help test
+\. countdown.sh
+\. countdown.sh 5
+\. countdown.sh 5
+./countdown.sh 5
