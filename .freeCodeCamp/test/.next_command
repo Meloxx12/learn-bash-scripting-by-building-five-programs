@@ -204,3 +204,5 @@ sh questionnaire.sh
 clear
 ./questionnaire.sh
 echo --help
+man ehco
+man echo
