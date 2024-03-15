@@ -207,3 +207,7 @@ echo --help
 man ehco
 man echo
 man echo
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
+./questionnaire.sh
