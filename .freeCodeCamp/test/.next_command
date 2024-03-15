@@ -275,3 +275,4 @@ clear
 clear
 help
 help [[ expression ]]
+help test
