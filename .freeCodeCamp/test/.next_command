@@ -240,3 +240,4 @@ clear
 man --help
 __vsc_prompt_cmd_original
 help
+man if
