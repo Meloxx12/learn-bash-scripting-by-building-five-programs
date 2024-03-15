@@ -264,3 +264,10 @@ clear
 ./countdown.sh arg1
 ./countdown.sh 4
 ./countdown.sh 7
+./countdown.sh
+./countdown.sh
+./countdown.sh
+./countdown.sh 1
+./countdown.sh 110
+./countdown.sh 1104
+./countdown.sh 4
