@@ -201,3 +201,5 @@ sh questionnaire.sh
 sh questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+clear
+./questionnaire.sh
