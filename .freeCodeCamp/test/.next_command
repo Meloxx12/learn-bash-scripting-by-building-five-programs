@@ -230,3 +230,7 @@ chmod -x countdown.sh
 ls --color=auto -l
 chmod +x countdown.sh
 ls --color=auto -l
+clear
+\. countdown.sh
+\. countdown.sh
+./countdown.sh
