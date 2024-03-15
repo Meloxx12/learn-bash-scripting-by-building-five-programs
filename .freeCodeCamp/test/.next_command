@@ -225,3 +225,7 @@ clear
 ./questionnaire.sh
 clear
 touch countdown.sh
+ls --color=auto -l
+chmod -x countdown.sh
+ls --color=auto -l
+chmod +x countdown.sh
