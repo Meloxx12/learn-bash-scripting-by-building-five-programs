@@ -247,3 +247,14 @@ clear
 ./countdown.sh arg1
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh arg2
+./countdown.sh arg
+./countdown.sh arg1
+./countdown.sh arg1, agr2
+./countdown.sh arg1, agr2
+./countdown.sh arg2
+./countdown.sh arg2
+./countdown.sh arg2
+./countdown.sh arg2, arg2
+clear
+./countdown.sh arg2, arg2
